@@ -9,7 +9,7 @@
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb) -->
 
 ### Sobre mim
-Eu trabalhava com infraestrurura e agora estou migrando para area de {cientista de dados e fullstack com enfaze em python}. Atualmente estou cursando o curso de Cientista de dados e FullStack Python
+Eu trabalhava com infraestrurura em TI e agora estou migrando para area de programação e ciência de dados. Atualmente estou cursando o curso de Cientista de dados e FullStack Python.
 
 - [Cursos](https://cursos.alura.com.br/courses/mine) 👨🏼‍🏫 - São cursos técnicos que me ajudaram a ter maior proficiencia em minha carreira.
 <!-- - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things. -->
