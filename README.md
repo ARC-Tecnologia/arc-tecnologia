@@ -11,6 +11,7 @@
 ### Sobre mim
 Trabalho com infraestrurura em TI e agregando novos conhecimentos em ciência de dados eprogramação. Atualmente cursando Cientista de dados e FullStack Python.
 
-- [Cursos](https://cursos.alura.com.br/courses/mine) 👨🏼‍🏫 - São cursos técnicos que me ajudaram a ter maior proficiencia em minha carreira.
+- [Cursos](https://cursos.alura.com.br/degree/certificate/c04a19db-ad70-453e-87e3-c5deb13979ad) 👨🏼‍🏫 
+- [Cursos](https://cursos.alura.com.br/degree/certificate/c04a19db-ad70-453e-87e3-c5deb13979ad) 👨🏼‍🏫 - São cursos técnicos que me ajudaram a ter maior proficiencia em minha carreira.
 <!-- - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things. -->
 <!-- - [Website](https://fagnerpsantos.dev/) 💻 - Working on it. -->
