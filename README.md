@@ -9,7 +9,7 @@
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb) -->
 
 ### Sobre mim
-<p>Trabalho com informática a vários anos e estive envolvido em paralelo com o comércio uma boa parte destes anos. Estou readequando a minha carreira profissional a meus propósitos de vida. Trabalho com infraestrutura em TI e estou agregando novos conhecimentos em ciência de dados e programação. Atualmente cursando Cientista de dados(EBAC) e FullStack Python(EBAC).</p>
+  Trabalho com informática a vários anos e estive envolvido em paralelo com o comércio uma boa parte destes anos. Estou readequando a minha carreira profissional a meus propósitos de vida. Trabalho com infraestrutura em TI e estou agregando novos conhecimentos em ciência de dados e programação. Atualmente cursando Cientista de dados(EBAC) e FullStack Python(EBAC).
 
 - [Cursos](https://cursos.alura.com.br/degree/certificate/c04a19db-ad70-453e-87e3-c5deb13979ad) 👨🏼‍🏫 - São cursos técnicos que me ajudaram a ter maior proficiencia em minha carreira.
 - [Cursos](https://cursos.alura.com.br/degree/certificate/79cf65fa-0506-43fb-ac06-4d6ba38301b6) 👨🏼‍🏫 - São cursos técnicos que me ajudaram a ter maior proficiencia em minha carreira.
